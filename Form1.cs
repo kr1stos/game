@@ -159,6 +159,7 @@ namespace Platformer
                 }
             }
         }
+        //gjgf
 
         private void PlayAnimation(Graphics gr)
         {
